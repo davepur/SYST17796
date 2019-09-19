@@ -33,6 +33,7 @@ public class Class1 {
         
         char[] charInput = scn.nextLine().toCharArray();
         
+        //For loop for printing backwards
         for (int i = charInput.length -1; i >= 0; i--) {
             System.out.println(charInput[i]);
         }
