@@ -7,7 +7,7 @@ import java.util.Scanner;
     Name:  Purvesh Dave
     Assignment:  [In Class Exercise]
     Program: Computer Programming
-    Date:  [assignment due date here]
+    Date:  [N/A]
 
     Description:
     [program description in your own words]
@@ -27,6 +27,11 @@ public class Class1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        String status;
+        
+        status = "PartTime";
+        
         
         Scanner scn = new Scanner(System.in);
         System.out.println("Please Input String");
