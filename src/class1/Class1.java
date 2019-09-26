@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /*
     Name:  Purvesh Dave
-    Assignment:  [assignment name]
+    Assignment:  [In Class Exercise]
     Program: Computer Programming
     Date:  [assignment due date here]
 
