@@ -30,7 +30,7 @@ public class Class1 {
         
         String status;
         
-        status = "PartTime";
+        status = "PartTime time son";
         
         
         Scanner scn = new Scanner(System.in);
